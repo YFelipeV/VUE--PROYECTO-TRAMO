@@ -1,5 +1,6 @@
 <template>
-<nav-component></nav-component>
+  <div><nav-component></nav-component></div>
+
 <HelloWorld></HelloWorld>
 <footer-component></footer-component>
 </template>
@@ -13,8 +14,8 @@ import FooterComponent from '@/components/FooterComponent.vue'
 export default {
   name: 'HomeView',
   components: {
-    HelloWorld,
     NavComponent,
+    HelloWorld,
     FooterComponent
   }
 }

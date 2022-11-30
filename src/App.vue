@@ -1,8 +1,10 @@
 <template>
-  <nav>
-    
-  </nav>
+  <nav></nav>
+  
   <router-view/>
+
+  
+  
 </template>
 
 <style>

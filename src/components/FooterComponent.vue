@@ -4,105 +4,102 @@
             <path d="M-1.58,23.19 C327.99,297.53 371.44,-79.44 501.80,87.32 L500.00,150.00 L0.00,150.00 Z"
                 style="stroke: none; fill: #161627;"></path>
         </svg></div>
-    <footer class="footer">
-        <div class="footer__container container-fluid ">
-            <div class="row d-flex pb-md-5">
-                <div class="col-12 col-md-6 col-xl-4 text-center text-md-start newsletter ps-md-5">
-                    <h6 class="footer__title">TRAMO S.A.S</h6>
-                    <ul class="footer__list my-4 text-center">
-                        <li class="footer__list-item me-2">
-                            <a href="#" class="footer__list-link">
-                                
-                            </a>
-                        </li>
-                        <li class="footer__list-item me-2">
-                            <a href="#" class="footer__list-link">
-                                
-                            </a>
-                        </li>
-                        <li class="footer__list-item me-2">
-                            <a href="#" class="footer__list-link">
-                                
-                            </a>
-                        </li>
-                        <li class="footer__list-item me-2">
-                            <a href="#" class="footer__list-link">
-                                >
-                            </a>
-                        </li>
-                        <li class="footer__list-item me-2">
-                            <a href="#" class="footer__list-link">
-                                
-                            </a>
-                        </li>
-                    </ul>
-                    <div class="eslogan-footeer mt-3">
-                        <p>"Llegamos a todos los rincones <br> del pais, para sacarte de <br> apuros en cualquier
-                            situación"
-                        </p>
-                    </div>
-                </div>
-
-
-                <div class="col-12 col-md-6 col-xl-4 text-center text-md-start ">
-                    <h6 class="footer__title">Navegación</h6>
-                    <ul class="footer__list">
-                        <li class="footer__list-item">
-                           
-                            <a href="" class="footer__list-link ms-3">Inicio</a>
-                        </li>
-                        <li class="footer__list-item">
-                            
-                            <a href="" class="footer__list-link ms-3">Acerca de nosotros</a>
-                        </li>
-                        <li class="footer__list-item">
-                            
-                            <a href="" class="footer__list-link ms-3">Testimonios</a>
-                        </li>
-                        <li class="footer__list-item">
-                            
-                            <a href="" class="footer__list-link ms-3">Ayuda</a>
-                        </li>
-                        <li class="footer__list-item">
-                            
-                            <a href="" class="footer__list-link ms-3">Desarrolladores</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class="col-12 col-md-6 col-xl-4 text-center text-md-start ">
-                    <h6 class="footer__title">Contactanos</h6>
-                    <ul class="footer__list">
-                        <li class="footer__list-item">
-                           
-                            <a href="" class="footer__list-link ms-1">Crra 5 #6-67 CTPI SENA Norte</a>
-                        </li>
-                        <li class="footer__list-item">
-                            
-                            <a href="" class="footer__list-link ms-1">TramoAdmin@gmail.com</a>
-                        </li>
-                        <li class="footer__list-item">
-                           
-                            <a href="" class="footer__list-link ms-1">+57 3235234567</a>
-                        </li>
-                        <li class="footer__list-item">
-                            
-                            <a href="" class="footer__list-link ms-1">+57 3235234567</a>
-                        </li>
-                    </ul>
-                </div>
-
-
-
+        <footer class="footer">
+      <div class="footer__container container-fluid ">
+        <div class="row d-flex pb-md-5">
+          <div class="col-12 col-md-6 col-xl-4 text-center text-md-start newsletter ps-md-5">
+            <h6 class="footer__title">TRAMO S.A.S</h6>
+            <ul class="footer__list my-4 text-center">
+              <li class="footer__list-item me-2">
+                <a href="#" class="footer__list-link">
+                  <img src="../assets/icons/facebook.svg" width="24px" class="ms-2" alt="">
+                </a>
+              </li>
+              <li class="footer__list-item me-2">
+                <a href="#" class="footer__list-link">
+                  <img src="../assets/icons/instagram.svg" width="24px" class="ms-2" alt="">
+                </a>
+              </li>
+              <li class="footer__list-item me-2">
+                <a href="#" class="footer__list-link">
+                  <img src="../assets/icons/twitter.svg" width="24px" class="ms-2" alt="">
+                </a>
+              </li>
+              <li class="footer__list-item me-2">
+                <a href="#" class="footer__list-link">
+                  <img src="../assets/icons/whatsapp.svg" width="24px" class="ms-2" alt="">
+                </a>
+              </li>
+              <li class="footer__list-item me-2">
+                <a href="#" class="footer__list-link">
+                  <img src="../assets/icons/youtube.svg" width="24px" class="ms-2" alt="">
+                </a>
+              </li>
+            </ul>
+            <div class="eslogan-footeer mt-3">
+              <p>"Llegamos a todos los rincones <br> del pais, para sacarte de <br> apuros en cualquier situación"</p>
             </div>
-            <hr class="footer__divider">
+          </div>
 
-            <div class="footer__bottom w-100 text-center">
-                <p class="copyright text-center">&copy; 2022 <span class="h6 text-white-50">TRAMO</span>. Todos los
-                    derechos
-                    reservados</p>
-            </div>
+
+          <div class="col-12 col-md-6 col-xl-4 text-center text-md-start ">
+            <h6 class="footer__title">Navegación</h6>
+            <ul class="footer__list">
+              <li class="footer__list-item">
+                <img src="../assets/icons/back.svg" alt="">
+                <a href="" class="footer__list-link ms-3">Inicio</a>
+              </li>
+              <li class="footer__list-item">
+                <img src="../assets/icons/back.svg" alt="">
+                <a href="" class="footer__list-link ms-3">Acerca de nosotros</a>
+              </li>
+              <li class="footer__list-item">
+                <img src="../assets/icons/back.svg" alt="">
+                <a href="" class="footer__list-link ms-3">Testimonios</a>
+              </li>
+              <li class="footer__list-item">
+                <img src="../assets/icons/back.svg" alt="">
+                <a href="" class="footer__list-link ms-3">Ayuda</a>
+              </li>
+              <li class="footer__list-item">
+                <img src="../assets/icons/back.svg" alt="">
+                <a href="" class="footer__list-link ms-3">Desarrolladores</a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="col-12 col-md-6 col-xl-4 text-center text-md-start ">
+            <h6 class="footer__title">Contactanos</h6>
+            <ul class="footer__list">
+              <li class="footer__list-item">
+                <img src="../assets/icons/geo.svg" alt="">
+                <a href="" class="footer__list-link ms-1">Crra 5 #6-67 CTPI SENA Norte</a>
+              </li>
+              <li class="footer__list-item">
+                <img src="../assets/icons/email.svg" alt="">
+                <a href="" class="footer__list-link ms-1">TramoAdmin@gmail.com</a>
+              </li>
+              <li class="footer__list-item">
+                <img src="../assets/icons/telephone.svg" alt="">
+                <a href="" class="footer__list-link ms-1">+57 3235234567</a>
+              </li>
+              <li class="footer__list-item">
+                <img src="../assets/icons/telephone.svg" alt="">
+                <a href="" class="footer__list-link ms-1">+57 3235234567</a>
+              </li>
+            </ul>
+          </div>
+
+
+
         </div>
+        <hr class="footer__divider">
+
+        <div class="footer__bottom w-100 text-center">
+          <p class="copyright text-center">&copy; 2022 <span class="h6 text-white-50">TRAMO</span>. Todos los derechos
+            reservados</p>
+        </div>
+      </div>
     </footer>
 </template>
 <script>
